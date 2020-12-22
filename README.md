@@ -9,7 +9,7 @@ This KiCAD project is a simple pcb allowing the embedding of an entire Arduino N
 
 ## Requirements
 
-To use this KiCAD project, you should also clone my KiCAD parts library and add it to your clone of this project. See <https://github.com/jcalcote/nano-grbl>.
+To use this KiCAD project, you should also clone my KiCAD parts library and add it to your clone of this project. See <https://github.com/jcalcote/KiCAD-footprints>.
 
 ## License
 
